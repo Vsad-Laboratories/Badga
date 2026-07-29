@@ -1,1 +1,5 @@
-# Badga
+# Badga 
+
+---
+
+- Its GOod!
